@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @rduttshukla
 - 👀 I’m interested in taking challenges to build skills which others refuse
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Web3 Development Using Solidity. Although I plan to learn Rust soon
 - 💞️ I’m looking to collaborate on Solidity, Javascript and React Based Projects
