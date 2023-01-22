@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @rduttshukla
 - 👀 I’m interested in taking challenges to build skills which others refuse
-- 🌱 I’m currently learning Web3 Development Using Solidity. Although I plan to learn Rust soon
+- ⚙️ I am working as a DApp developer using Solidity. I am able to use React and Node.js to bundle the projects.
+- ☘️ I plan to learn Rust to get into Solana development.
 - 💞️ I’m looking to collaborate on Solidity, Javascript and React Based Projects
