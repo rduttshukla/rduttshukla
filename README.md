@@ -1,5 +1,9 @@
-- 👋 Hi, I’m @rduttshukla
-- 👀 I’m interested in taking challenges to build skills which others refuse
-- ⚙️ I am working as a DApp developer using Solidity. I am able to use React and Node.js to bundle the projects.
-- ☘️ I plan to learn Rust to get into Solana development.
-- 💞️ I’m looking to collaborate on Solidity, Javascript and React Based Projects
+Hi there, I'm Rishi, and I'm passionate about the tech ecosystem!
+
+🚀 I embrace challenges that others shy away from, constantly honing my skills.
+💼 I work as a software engineer, and am able to utilize React, Angular, Solidity, Node.js, and more to create powerful solutions.
+🌠 I have set my sights on learning DevOps, microservices and automated testing to become a better engineer.
+🌱 I am willing to learn more about and contribute to the blockchain ecosystem.
+🤝 With that, I am eager to collaborate using Solidity, JavaScript, TypeScript, and beyond.
+
+Let's build the future together! Sky is the limit!!
